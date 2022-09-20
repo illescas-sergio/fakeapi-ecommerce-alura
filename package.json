@@ -1,0 +1,14 @@
+{
+  "name": "ecommerce-jsonserver-api",
+  "version": "1.0.0",
+  "description": "json-server-fakeapi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "alguien de youtube",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
